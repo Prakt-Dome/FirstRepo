@@ -1,2 +1,2 @@
 # FirstRepo
-A test repository
+A demo repository
